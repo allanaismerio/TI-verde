@@ -38,7 +38,7 @@ Este projeto foi construído inteiramente com tecnologias front-end:
 * **Chart.js:** Biblioteca JavaScript para a criação dos gráficos de visualização de dados.
 * **PapaParse:** Biblioteca JavaScript para o parsing (leitura) dos dados em formato CSV no lado do cliente.
 
-## 🏃 Como Executar
+## Como Executar
 
 Por ser um projeto puramente front-end, não é necessária nenhuma instalação de servidor.
 
@@ -52,6 +52,6 @@ Por ser um projeto puramente front-end, não é necessária nenhuma instalação
     ```
 3.  Abra o arquivo `index.html` diretamente no seu navegador de preferência.
 
-## 👤 Autoria
+## Autoria
 
 * [cite_start]**Pesquisa, Design e Desenvolvimento:** [Allana Ismério](https://github.com/allanaismerio) [cite: 592]
