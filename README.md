@@ -4,7 +4,7 @@ Este é um projeto acadêmico e portal informativo focado nos conceitos de **TI 
 
 O projeto consiste em um site multipágina responsivo que aborda desde a eficiência energética e o descarte de e-lixo até práticas de Cloud Computing sustentável, culminando em um dashboard interativo que apresenta dados de uma pesquisa sobre o tema.
 
-## 🏛️ Estrutura do Site
+## Estrutura do Site
 
 O portal é composto pelas seguintes páginas:
 
