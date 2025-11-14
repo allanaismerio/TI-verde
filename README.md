@@ -54,4 +54,4 @@ Por ser um projeto puramente front-end, não é necessária nenhuma instalação
 
 ## Autoria
 
-* [cite_start]**Pesquisa, Design e Desenvolvimento:** [Allana Ismério](https://github.com/allanaismerio) [cite: 592]
+**Pesquisa, Design e Desenvolvimento:** [Allana Ismério](https://github.com/allanaismerio)
